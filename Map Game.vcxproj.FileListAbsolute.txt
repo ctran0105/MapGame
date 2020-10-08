@@ -1,0 +1,2 @@
+D:\FALL 2020\Github\Map Game\Debug\Map Game.exe
+D:\FALL 2020\Github\Map Game\Debug\Map Game.pdb
